@@ -1,0 +1,11 @@
+{
+  "project_summary": "mkmdc",
+  "user_roles": [],
+  "functional_requirements": [],
+  "non_functional_requirements": [],
+  "constraints": [],
+  "clarifying_questions": [
+    "Who are the main users?",
+    "What is the main problem this system should solve?"
+  ]
+}
